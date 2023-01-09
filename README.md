@@ -1,5 +1,7 @@
 # KMeans-Python-Disease-Prediction
 
+made in 2022
+
 1.	Kaggle Participation
 
 As seen in the following pictures, the entries were submitted 70 times. Initially the values were quite low (except for one outlier) the accuracy was not very good, however as the entries progressed, the trend continued to increase as I learned new methods and applied new filters and learned from my mistakes.
